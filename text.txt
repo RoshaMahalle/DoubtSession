@@ -6,3 +6,4 @@ Docker
 Ml
 AWS
 
+Python is interpreted lang
